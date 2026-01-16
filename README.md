@@ -2,7 +2,8 @@
 
 ----- 
 
-Descripción
+📌 Descripción
+
 Este proyecto utiliza Excel avanzado para gestionar y analizar pedidos de café. Se implementan funciones de búsqueda, condicionales, referencias cruzadas y tablas dinámicas, integrando datos de clientes (customers), productos (products) y pedidos (orders). Además, se construye un dashboard interactivo para visualizar tendencias de ventas y comportamiento de clientes.
 
 -------
